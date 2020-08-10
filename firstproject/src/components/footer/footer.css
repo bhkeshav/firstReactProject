@@ -1,0 +1,9 @@
+.body{
+    background-color: dimgray;
+    color: firebrick;
+    margin-top: 50px;
+    font-size: large;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    letter-spacing: 0.1ch;
+}

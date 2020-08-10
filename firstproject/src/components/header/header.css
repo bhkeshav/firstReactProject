@@ -1,0 +1,18 @@
+.body{
+    background-color: fuchsia;
+    height: 50px;
+    margin: 10px;    
+}
+.logo img{
+    height: 50px;
+    width: 100px;
+    float: left;
+}
+.body a{
+    padding: 10px;
+    margin: 10px;
+    letter-spacing: 0.1ch;
+    text-decoration: none;    
+    color: blue;
+    font-family: cursive;
+}

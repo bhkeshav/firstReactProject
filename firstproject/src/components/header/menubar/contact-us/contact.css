@@ -1,0 +1,21 @@
+.body{
+    background-color: blue;
+    color: red;
+    border: 2px solid black ; height: 400px; width: 500px;    
+    margin:  50px 300px 0px ;
+
+}
+.photo img{
+    height: 200px;
+    width: 200px;
+    text-align: center;
+}
+.photo{
+    text-align: center;
+}
+.form{
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-variant: small-caps;
+    letter-spacing: 0.1ch;
+}

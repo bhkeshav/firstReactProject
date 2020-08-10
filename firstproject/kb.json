@@ -1,0 +1,94 @@
+{
+    "articles":[{
+        "id": "1",
+        "images": "1.JPG",
+        "content":"This is the first blog of my website"
+    },
+    {
+        "id":"2",
+        "images": "2.jpg",
+        "content": "This is my second blog"
+    },
+    {
+        "id":"3",
+        "images": "3.jpg",
+        "content":"This is my third blog of my website"
+    }
+    ],
+
+    "Blogger":[{
+        "id": "1",
+        "link": "Blossom_rot",
+        "images": "a1.jpg"
+    },
+    {
+        "id": "2",
+        "link": "Cabbage_cutter",
+        "images": "a2.jpg"
+    },
+    {
+        "id": "3",
+        "link": "Fruit_fly",
+        "images": "a3.jpg"
+    },
+    {
+        "id": "4",
+        "link": "Bean_cutter",
+        "images": "a4.jpg"
+    },
+    {
+        "id": "5",
+        "link": "Fruit_fly",
+        "images": "a5.jpg"
+    },
+    {
+        "id": "6",
+        "link": "Fruit_fly",
+        "images": "a6.jpg"
+    },
+    {
+        "id": "7",
+        "link": "Epilachna_damage",
+        "images": "a7.jpg"
+    },
+    {
+        "id": "8",
+        "link": "Stem_borer_damage",
+        "images": "a8.jpg"
+    },
+    {
+        "id": "9",
+        "link": "Powdery_mildew",
+        "images": "a9.jpg"
+    },
+    {
+        "id": "10",
+        "link": "Unpollinated_gourd",
+        "images": "a10.jpg"
+    },
+    {
+        "id": "11",
+        "link": "Cabbage_cutter",
+        "images": "a11.jpg"
+    },
+    {
+        "id": "12",
+        "link": "Pesticide",
+        "images": "a12.jpg"
+    },
+    {
+        "id": "13",
+        "link": "Stem_borer_damage",
+        "images": "a13.jpg"
+    },
+    {
+        "id": "14",
+        "link": "Pesticide",
+        "images": "a14.jpg"
+    },
+    {
+        "id": "15",
+        "link": "Snail_damage",
+        "images": "a15.jpg"
+    }
+]}

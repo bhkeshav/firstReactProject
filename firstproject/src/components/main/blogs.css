@@ -1,0 +1,31 @@
+.body{
+    background-color: skyblue;
+    margin: 10px;
+}
+.header{
+    color: firebrick;
+    font-size: xx-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    letter-spacing: 0.1ch;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.head{
+    color: blue;
+    background-color: burlywood;
+    letter-spacing: 0.15ch;
+    font-family: cursive;
+}
+.management{
+    font-size: x-large;
+    border: 1px solid black; width: fit-content;
+    background-color: black;
+    color: white;
+}
+.headd{
+    background-color: gold;
+    font-style: italic;
+    color: deeppink;
+    letter-spacing: 0.2ch;
+}
